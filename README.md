@@ -20,6 +20,8 @@ My [account](https://leetcode.com/u/bosspik/) on leetcode
 3. Programming in C#
 4. Programming in HTML, CSS and JavaScript
 
+![Пилот](https://github.com/user-attachments/assets/895642d8-3ef2-4359-966d-b5b2be59a755)
+
 ## Расписание на неделю
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
