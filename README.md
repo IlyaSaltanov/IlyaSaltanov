@@ -8,6 +8,8 @@ My [account](https://leetcode.com/u/bosspik/) on leetcode.
 
 ![](https://leetcard.jacoblin.cool/bosspik?ext=heatmap)
 
+## My GitHub stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlyaSaltanov&theme=highcontrast&hide_border=true&border_radius=6)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaSaltanov&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaSaltanov&stats_format=bytes)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaSaltanov&show_icons=true&bg_color=00000000)
 
 ## My interests
