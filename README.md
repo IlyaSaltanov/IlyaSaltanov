@@ -28,6 +28,10 @@ My [account](https://leetcode.com/u/bosspik/) on leetcode
 | pandas                | Spanish               | WEB programming       | Physical Culture      | pandas                | Spanish               | Geometry              |
 | WEB programming       | Physical Culture      | Math      | Geometry              | Spanish               | Phisics               | English               |
 
-
-<img src="https://github.com/user-attachments/assets/895642d8-3ef2-4359-966d-b5b2be59a755" style="max-width: 100%; height: auto;">
+<details>
+  <summary>Нажмите, чтобы развернуть</summary>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/895642d8-3ef2-4359-966d-b5b2be59a755" style="max-width: 100%; height: auto;">
+  </div>
+</details>
 
