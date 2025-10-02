@@ -19,7 +19,7 @@ My [account](https://leetcode.com/u/bosspik/) on leetcode
 2. Programming in Python Pandas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 3. Programming in C# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 4. Programming in HTML, CSS and JavaScript <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
-5. The english language (B1)
+5. The english language (B1) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
 ## Weekly schedule
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
