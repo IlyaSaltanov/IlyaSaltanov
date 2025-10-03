@@ -4,9 +4,9 @@
 I am a 1st year student at Ural Federal University in the field of Applied Informatics.
 
 ## My LeetCode stats
-My [account](https://leetcode.com/u/bosspik/) on leetcode.
+My [account](https://leetcode.com/u/IlyaSaltanov/) on leetcode.
 
-![](https://leetcard.jacoblin.cool/bosspik?ext=heatmap)
+![](https://leetcard.jacoblin.cool/IlyaSaltanov?ext=heatmap)
 
 ## My GitHub stats
 
