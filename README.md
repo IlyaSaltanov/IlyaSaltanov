@@ -8,6 +8,12 @@ My [account](https://leetcode.com/u/IlyaSaltanov/) on leetcode.
 
 ![](https://leetcard.jacoblin.cool/IlyaSaltanov?ext=heatmap&width=1200&theme=dark&align=center)
 
+---
+
+## My CodeWars stats
+![Codewars](https://github.r2v.ch/codewars?user=IlyaSaltanov&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+---
+
 ## My GitHub stats
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=IlyaSaltanov&theme=dark&border_radius=10" alt="GitHub Streak" width=100%/></a>
 
