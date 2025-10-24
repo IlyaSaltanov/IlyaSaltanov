@@ -12,6 +12,7 @@ My [account](https://leetcode.com/u/IlyaSaltanov/) on leetcode.
 
 ## My CodeWars stats
 ![Codewars](https://github.r2v.ch/codewars?user=IlyaSaltanov&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 ---
 
 ## My GitHub stats
