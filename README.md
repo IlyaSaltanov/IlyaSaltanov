@@ -16,9 +16,6 @@ My [account](https://leetcode.com/u/IlyaSaltanov/) on leetcode.
 ---
 
 ## My GitHub stats
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=IlyaSaltanov&theme=dark&border_radius=10" alt="GitHub Streak" width=100%/></a>
-
----
 
 <div align = center>
 <a href="https://github.com/IlyaSaltanov/github-readme-stats">
