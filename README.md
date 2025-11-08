@@ -6,6 +6,12 @@ I am a 1st year student at Ural Federal University in the field of Applied Infor
 ## I'm on social media
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/54926f47-71f4-424a-9b96-f24c8fbac71e"/>
 https://vk.com/saltanov2021
+</br>
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f002d354-73bf-4b9e-a803-ddcb69dc3ac2" />
+@IlyaSaltanov
+
+
+
 
 ## My LeetCode stats
 My [account](https://leetcode.com/u/IlyaSaltanov/) on leetcode.
